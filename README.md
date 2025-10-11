@@ -8,12 +8,12 @@ A minimal **Wordle** clone built with **React**, **TypeScript**, **TailwindCSS**
 A few sample 5-letter words used in the game:
 
 ```
-BRICK (b, r, i, c, k)
 GLENT (g, l, e, n, t)
-JUMPY (j, u, m, p, y)
-VOZHD (v, o, z, h, d)
 WAQFS (w, a, q, f, s)
-```
+BRICK (b, r, i, c, k)
+VOZHD (v, o, z, h, d)
+JUMPY (j, u, m, p, y)
+``` 
 
 ---
 
