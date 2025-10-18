@@ -67,7 +67,3 @@ Open your browser at **http://localhost:8080/** to play the game!
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
-
-## Test
-
-## Test 2
